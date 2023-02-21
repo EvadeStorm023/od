@@ -1,0 +1,32 @@
+
+#heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+    margin: 10px;
+font-size: 18px;
+color: red;
+}
+body{
+    background-size: cover;
+    background-repeat: none;
+} 
+
+h4{
+    bottom:0;
+    position:fixed;
+    color: brown;
+    background: lightblue;
+}
+
+canvas{
+    background-color: white;
+}
+
+
+
